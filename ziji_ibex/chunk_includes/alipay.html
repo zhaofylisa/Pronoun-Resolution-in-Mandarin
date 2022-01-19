@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+          
+            // Function to check Whether both passwords
+            // is same or not.
+            function checkAccount(form) {
+                account1 = form.account1.value;
+                account2 = form.account2.value;
+                email = form.email.value;
+                
+                // If Not same return False.    
+                if (account1 != account2) {
+                    alert ("\n请再次核对您的支付宝账号...");
+                }
+  
+                // // If same return True.
+                // else{
+                //     return true;
+                // }
+            }
+        </script>
+        <style>
+            .gfg {
+                font-size:40px;
+                color:green;
+                font-weight:bold;
+                text-align:center;
+            }
+            .geeks {
+                font-size:17px;
+                text-align:center;
+                margin-bottom:20px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class = "gfg">完成实验！</div>
+        <div class = "geeks">感谢您的参与！请输入相关信息用于收取报酬。</div>
+
+        <form onSubmit = "return checkAccount(this)">
+        <table border = 1 align = "center">
+            <tr>
+                <!-- Enter email -->
+                <td>邮箱:</td>
+                <!-- <td><input type = text class="obligatory" name = email size = 25</td> -->
+                <td>
+                    <textarea name="email" class="obligatory" rows="1" cols="40"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <!-- Enter Password. -->
+                <td>请输入您的支付宝账号（用于转账，请核对正确）</td>
+                <td><input type = text class="obligatory" name = account1 size = 25</td>
+            </tr>
+            <tr>
+                <!-- To Confirm Password. -->
+                <td>请再次输入支付宝账号:</td>
+                <td><input type = text class="obligatory" name = account2 size = 25></td>
+            </tr>
+            <tr>
+                <td colspan = 2 align = right>
+                <input type = submit value = "核对"></td>
+            </tr>
+        </table>
+        </form>
+    </body>
+</html>                    

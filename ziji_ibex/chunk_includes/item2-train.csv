@@ -1,0 +1,6 @@
+﻿experiment,item,sentence,sentence2,world,op1,op2,op3,op4
+likelihood-train,LIT-1,王刚把,的碗筷洗了。,zhangwei.png,自己,他自己,他,张伟
+likelihood-train,LIT-2,小明把,骂了一顿。,other.png,自己,他自己,他,李华
+likelihood-train,LIT-3,张伟把,气哭了。,other.png,自己,他自己,他,张伟
+likelihood-train,LIT-4,李华把,的杯子打碎了。 ,lihua.png,自己,他自己,他,李华
+likelihood-train,LIT-5,王刚把,照顾得很好。,wanggang.png,自己,他自己,他,王刚

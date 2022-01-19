@@ -1,0 +1,181 @@
+﻿type,item,type,condition,item,item2,W1,W2,W3,op1,op2,op3,op4
+prior,1,ziji,NA,李华说：“小明总把 ______ 弄糊涂。“,NA,lihua.png,xiaoming.png,other.png,NA,NA,NA,NA
+prior,2,ziji,NA,李华说：“王刚把 ______ 出卖了。“,NA,lihua.png,wanggang.png,other.png,NA,NA,NA,NA
+prior,3,ziji,NA,李华说：“王刚总把 ______ 照顾得很好。“,NA,lihua.png,wanggang.png,other.png,NA,NA,NA,NA
+prior,4,ziji,NA,李华说：“张伟总把 ______ 当成小孩子。“,NA,lihua.png,zhangwei.png,other.png,NA,NA,NA,NA
+prior,5,ziji,NA,小明说：“李华总把 ______ 弄伤。“,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+prior,6,ziji,NA,小明说：“张伟总把 ______ 想像成警察。“,NA,xiaoming.png,zhangwei.png,other.png,NA,NA,NA,NA
+prior,7,ziji,NA,小明说：“李华总把 ______ 灌醉。“,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+prior,8,ziji,NA,小明说：“李华总把 ______ 绊倒。“,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+prior,9,ziji,NA,王刚说：“小明总把 ______ 关在家里。“,NA,wanggang.png,xiaoming.png,other.png,NA,NA,NA,NA
+prior,10,ziji,NA,王刚说：“小明总把 ______ 逼得太紧。“,NA,wanggang.png,xiaoming.png,other.png,NA,NA,NA,NA
+prior,11,ziji,NA,王刚说：“张伟总把 ______ 置于危险中。“,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+prior,12,ziji,NA,王刚说：“张伟总把 ______ 气哭。“,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+prior,13,ziji,NA,张伟说：“王刚总把 ______ 打扮得整整齐齐。“,NA,zhangwei.png,wanggang.png,other.png,NA,NA,NA,NA
+prior,14,ziji,NA,张伟说：“李华把 ______ 弄骨折了。“,NA,zhangwei.png,lihua.png,other.png,NA,NA,NA,NA
+prior,15,ziji,NA,张伟说：“小明总把 ______ 逗笑。“,NA,zhangwei.png,xiaoming.png,other.png,NA,NA,NA,NA
+prior,16,zijide,NA,小明说：“王刚总把 ______ 的照片发到朋友圈。“,NA,xiaoming.png,wanggang.png,other.png,NA,NA,NA,NA
+prior,17,zijide,NA,小明说：“李华把 ______ 的演讲稿修改了一下。“,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+prior,18,zijide,NA,小明说：“张伟总把 ______ 的想法忘记。“,NA,xiaoming.png,zhangwei.png,other.png,NA,NA,NA,NA
+prior,19,zijide,NA,小明说：“王刚总把 ______ 的作业遗漏在桌子上。“,NA,xiaoming.png,wanggang.png,other.png,NA,NA,NA,NA
+prior,20,zijide,NA,王刚说：“李华总把 ______ 的遭遇讲给别人听。“,NA,wanggang.png,lihua.png,other.png,NA,NA,NA,NA
+prior,21,zijide,NA,王刚说：“张伟把 ______ 的工作做完了。“,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+prior,22,zijide,NA,王刚说：“小明把 ______ 的想法表达出来了。“,NA,wanggang.png,xiaoming.png,other.png,NA,NA,NA,NA
+prior,23,zijide,NA,王刚说：“张伟把 ______ 的孩子搂在怀里。“,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+prior,24,zijide,NA,李华说：“王刚把 ______ 的证件弄丢了。“,NA,lihua.png,wanggang.png,other.png,NA,NA,NA,NA
+prior,25,zijide,NA,李华说：“张伟把 ______ 的小狗找回来了。“,NA,lihua.png,zhangwei.png,other.png,NA,NA,NA,NA
+prior,26,zijide,NA,李华说：“小明把 ______ 的玩具模型弄坏了。“,NA,lihua.png,xiaoming.png,other.png,NA,NA,NA,NA
+prior,27,zijide,NA,李华说：“小明把 ______ 的房间打扫干净了。“,NA,lihua.png,xiaoming.png,other.png,NA,NA,NA,NA
+prior,28,zijide,NA,张伟说：“小明把 ______ 的秘密告诉了别人。“,NA,zhangwei.png,xiaoming.png,other.png,NA,NA,NA,NA
+prior,29,zijide,NA,张伟说：“王刚把 ______ 的衣服都捐掉了。“,NA,zhangwei.png,wanggang.png,other.png,NA,NA,NA,NA
+prior,30,zijide,NA,张伟说：“李华把 ______ 的文件给删除了。“,NA,zhangwei.png,lihua.png,other.png,NA,NA,NA,NA
+likelihood,1,ziji,W1,李华说小明总把 ______ ,弄糊涂。,lihua.png,NA,NA,自己,他自己,他,李华
+likelihood,2,ziji,W1,李华说王刚把 ______ ,出卖了。,lihua.png,NA,NA,自己,他自己,他,李华
+likelihood,3,ziji,W1,李华说王刚总把 ______ ,照顾得很好。,lihua.png,NA,NA,自己,他自己,他,李华
+likelihood,4,ziji,W1,李华说张伟总把 ______ ,当成小孩子。,lihua.png,NA,NA,自己,他自己,他,李华
+likelihood,5,ziji,W1,小明说李华总把 ______ ,弄伤。,xiaoming.png,NA,NA,自己,他自己,他,小明
+likelihood,6,ziji,W1,小明说张伟总把 ______ ,想像成警察。,xiaoming.png,NA,NA,自己,他自己,他,小明
+likelihood,7,ziji,W1,小明说李华总把 ______ ,灌醉。,xiaoming.png,NA,NA,自己,他自己,他,小明
+likelihood,8,ziji,W1,小明说李华总把 ______ ,绊倒。,xiaoming.png,NA,NA,自己,他自己,他,小明
+likelihood,9,ziji,W1,王刚说小明总把 ______ ,关在家里。,wanggang.png,NA,NA,自己,他自己,他,王刚
+likelihood,10,ziji,W1,王刚说小明总把 ______ ,逼得太紧。,wanggang.png,NA,NA,自己,他自己,他,王刚
+likelihood,11,ziji,W1,王刚说张伟总把 ______ ,置于危险中。,wanggang.png,NA,NA,自己,他自己,他,王刚
+likelihood,12,ziji,W1,王刚说张伟总把 ______ ,气哭。,wanggang.png,NA,NA,自己,他自己,他,王刚
+likelihood,13,ziji,W1,张伟说王刚总把 ______ ,打扮得整整齐齐。,zhangwei.png,NA,NA,自己,他自己,他,张伟
+likelihood,14,ziji,W1,张伟说李华把 ______ ,弄骨折了。,zhangwei.png,NA,NA,自己,他自己,他,张伟
+likelihood,15,ziji,W1,张伟说小明总把 ______ ,逗笑。,zhangwei.png,NA,NA,自己,他自己,他,张伟
+likelihood,16,zijide,W1,小明说王刚总把 ______ ,的照片发到朋友圈。,xiaoming.png,NA,NA,自己,他自己,他,小明
+likelihood,17,zijide,W1,小明说李华把 ______ ,的演讲稿修改了一下。,xiaoming.png,NA,NA,自己,他自己,他,小明
+likelihood,18,zijide,W1,小明说张伟总把 ______ ,的想法忘记。,xiaoming.png,NA,NA,自己,他自己,他,小明
+likelihood,19,zijide,W1,小明说王刚总把 ______ ,的作业遗漏在桌子上。,xiaoming.png,NA,NA,自己,他自己,他,小明
+likelihood,20,zijide,W1,王刚说李华总把 ______ ,的遭遇讲给别人听。,wanggang.png,NA,NA,自己,他自己,他,王刚
+likelihood,21,zijide,W1,王刚说张伟把 ______ ,的工作做完了。,wanggang.png,NA,NA,自己,他自己,他,王刚
+likelihood,22,zijide,W1,王刚说小明把 ______ ,的想法表达出来了。,wanggang.png,NA,NA,自己,他自己,他,王刚
+likelihood,23,zijide,W1,王刚说张伟把 ______ ,的孩子搂在怀里。,wanggang.png,NA,NA,自己,他自己,他,王刚
+likelihood,24,zijide,W1,李华说王刚把 ______ ,的证件弄丢了。,lihua.png,NA,NA,自己,他自己,他,李华
+likelihood,25,zijide,W1,李华说张伟把 ______ ,的小狗找回来了。,lihua.png,NA,NA,自己,他自己,他,李华
+likelihood,26,zijide,W1,李华说小明把 ______ ,的玩具模型弄坏了。,lihua.png,NA,NA,自己,他自己,他,李华
+likelihood,27,zijide,W1,李华说小明把 ______ ,的房间打扫干净了。,lihua.png,NA,NA,自己,他自己,他,李华
+likelihood,28,zijide,W1,张伟说小明把 ______ ,的秘密告诉了别人。,zhangwei.png,NA,NA,自己,他自己,他,张伟
+likelihood,29,zijide,W1,张伟说王刚把 ______ ,的衣服都捐掉了。,zhangwei.png,NA,NA,自己,他自己,他,张伟
+likelihood,30,zijide,W1,张伟说李华不小心把 ______ ,的文件给删除了。,zhangwei.png,NA,NA,自己,他自己,他,张伟
+likelihood,31,ziji,W2,李华说小明总把 ______ ,弄糊涂。,NA,xiaoming.png,NA,自己,他自己,他,小明
+likelihood,32,ziji,W2,李华说王刚把 ______ ,出卖了。,NA,wanggang.png,NA,自己,他自己,他,王刚
+likelihood,33,ziji,W2,李华说王刚总把 ______ ,照顾得很好。,NA,wanggang.png,NA,自己,他自己,他,王刚
+likelihood,34,ziji,W2,李华说张伟总把 ______ ,当成小孩子。,NA,zhangwei.png,NA,自己,他自己,他,张伟
+likelihood,35,ziji,W2,小明说李华总把 ______ ,弄伤。,NA,lihua.png,NA,自己,他自己,他,李华
+likelihood,36,ziji,W2,小明说张伟总把 ______ ,想像成警察。,NA,zhangwei.png,NA,自己,他自己,他,张伟
+likelihood,37,ziji,W2,小明说李华总把 ______ ,灌醉。,NA,lihua.png,NA,自己,他自己,他,李华
+likelihood,38,ziji,W2,小明说李华总把 ______ ,绊倒。,NA,lihua.png,NA,自己,他自己,他,李华
+likelihood,39,ziji,W2,王刚说小明总把 ______ ,关在家里。,NA,xiaoming.png,NA,自己,他自己,他,小明
+likelihood,40,ziji,W2,王刚说小明总把 ______ ,逼得太紧。,NA,xiaoming.png,NA,自己,他自己,他,小明
+likelihood,41,ziji,W2,王刚说张伟总把 ______ ,置于危险中。,NA,zhangwei.png,NA,自己,他自己,他,张伟
+likelihood,42,ziji,W2,王刚说张伟总把 ______ ,气哭。,NA,zhangwei.png,NA,自己,他自己,他,张伟
+likelihood,43,ziji,W2,张伟说王刚总把 ______ ,打扮得整整齐齐。,NA,wanggang.png,NA,自己,他自己,他,王刚
+likelihood,44,ziji,W2,张伟说李华把 ______ ,弄骨折了。,NA,lihua.png,NA,自己,他自己,他,李华
+likelihood,45,ziji,W2,张伟说小明总把 ______ ,逗笑。,NA,xiaoming.png,NA,自己,他自己,他,小明
+likelihood,46,zijide,W2,小明说王刚总把 ______ ,的照片发到朋友圈。,NA,wanggang.png,NA,自己,他自己,他,王刚
+likelihood,47,zijide,W2,小明说李华把 ______ ,的演讲稿修改了一下。,NA,lihua.png,NA,自己,他自己,他,李华
+likelihood,48,zijide,W2,小明说张伟总把 ______ ,的想法忘记。,NA,zhangwei.png,NA,自己,他自己,他,张伟
+likelihood,49,zijide,W2,小明说王刚总把 ______ ,的作业遗漏在桌子上。,NA,wanggang.png,NA,自己,他自己,他,王刚
+likelihood,50,zijide,W2,王刚说李华总把 ______ ,的遭遇讲给别人听。,NA,lihua.png,NA,自己,他自己,他,李华
+likelihood,51,zijide,W2,王刚说张伟把 ______ ,的工作做完了。,NA,zhangwei.png,NA,自己,他自己,他,张伟
+likelihood,52,zijide,W2,王刚说小明把 ______ ,的想法表达出来了。,NA,xiaoming.png,NA,自己,他自己,他,小明
+likelihood,53,zijide,W2,王刚说张伟把 ______ ,的孩子搂在怀里。,NA,zhangwei.png,NA,自己,他自己,他,张伟
+likelihood,54,zijide,W2,李华说王刚把 ______ ,的证件弄丢了。,NA,wanggang.png,NA,自己,他自己,他,王刚
+likelihood,55,zijide,W2,李华说张伟把 ______ ,的小狗找回来了。,NA,zhangwei.png,NA,自己,他自己,他,张伟
+likelihood,56,zijide,W2,李华说小明把 ______ ,的玩具模型弄坏了。,NA,xiaoming.png,NA,自己,他自己,他,小明
+likelihood,57,zijide,W2,李华说小明把 ______ ,的房间打扫干净了。,NA,xiaoming.png,NA,自己,他自己,他,小明
+likelihood,58,zijide,W2,张伟说小明把 ______ ,的秘密告诉了别人。,NA,xiaoming.png,NA,自己,他自己,他,小明
+likelihood,59,zijide,W2,张伟说王刚把 ______ ,的衣服都捐掉了。,NA,wanggang.png,NA,自己,他自己,他,王刚
+likelihood,60,zijide,W2,张伟说李华不小心把 ______ ,的文件给删除了。,NA,lihua.png,NA,自己,他自己,他,李华
+posterior,1,ziji,ta,李华说小明总把他弄糊涂。,NA,lihua.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,2,ziji,taziji,李华说小明总把他自己弄糊涂。,NA,lihua.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,3,ziji,ziji,李华说小明总把自己弄糊涂。,NA,lihua.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,4,ziji,ta,李华说王刚把他出卖了。,NA,lihua.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,5,ziji,taziji,李华说王刚把他自己出卖了。,NA,lihua.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,6,ziji,ziji,李华说王刚把自己出卖了。,NA,lihua.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,7,ziji,ta,李华说王刚总把他照顾得很好。,NA,lihua.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,8,ziji,taziji,李华说王刚总把他自己照顾得很好。,NA,lihua.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,9,ziji,ziji,李华说王刚总把自己照顾得很好。,NA,lihua.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,10,ziji,ta,李华说张伟总把他当成小孩子。,NA,lihua.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,11,ziji,taziji,李华说张伟总把他自己当成小孩子。,NA,lihua.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,12,ziji,ziji,李华说张伟总把自己当成小孩子。,NA,lihua.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,13,ziji,ta,小明说李华总把他弄伤。,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,14,ziji,taziji,小明说李华总把他自己弄伤。,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,15,ziji,ziji,小明说李华总把自己弄伤。,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,16,ziji,ta,小明说张伟总把他想像成警察。,NA,xiaoming.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,17,ziji,taziji,小明说张伟总把他自己想像成警察。,NA,xiaoming.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,18,ziji,ziji,小明说张伟总把自己想像成警察。,NA,xiaoming.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,19,ziji,ta,小明说李华总把他灌醉。,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,20,ziji,taziji,小明说李华总把他自己灌醉。,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,21,ziji,ziji,小明说李华总把自己灌醉。,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,22,ziji,ta,小明说李华总把他绊倒。,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,23,ziji,taziji,小明说李华总把他自己绊倒。,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,24,ziji,ziji,小明说李华总把自己绊倒。,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,25,ziji,ta,王刚说小明总把他关在家里。,NA,wanggang.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,26,ziji,taziji,王刚说小明总把他自己关在家里。,NA,wanggang.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,27,ziji,ziji,王刚说小明总把自己关在家里。,NA,wanggang.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,28,ziji,ta,王刚说小明总把他逼得太紧。,NA,wanggang.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,29,ziji,taziji,王刚说小明总把他自己逼得太紧。,NA,wanggang.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,30,ziji,ziji,王刚说小明总把自己逼得太紧。,NA,wanggang.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,31,ziji,ta,王刚说张伟总把他置于危险中。,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,32,ziji,taziji,王刚说张伟总把他自己置于危险中。,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,33,ziji,ziji,王刚说张伟总把自己置于危险中。,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,34,ziji,ta,王刚说张伟总把他气哭。,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,35,ziji,taziji,王刚说张伟总把他自己气哭。,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,36,ziji,ziji,王刚说张伟总把自己气哭。,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,37,ziji,ta,张伟说王刚总把他打扮得整整齐齐。,NA,zhangwei.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,38,ziji,taziji,张伟说王刚总把他自己打扮得整整齐齐。,NA,zhangwei.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,39,ziji,ziji,张伟说王刚总把自己打扮得整整齐齐。,NA,zhangwei.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,40,ziji,ta,张伟说李华把他弄骨折了。,NA,zhangwei.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,41,ziji,taziji,张伟说李华把他自己弄骨折了。,NA,zhangwei.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,42,ziji,ziji,张伟说李华把自己弄骨折了。,NA,zhangwei.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,43,ziji,ta,张伟说小明总把他逗笑。,NA,zhangwei.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,44,ziji,taziji,张伟说小明总把他自己逗笑。,NA,zhangwei.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,45,ziji,ziji,张伟说小明总把自己逗笑。,NA,zhangwei.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,46,zijide,ta,小明说王刚总把他的照片发到朋友圈。,NA,xiaoming.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,47,zijide,taziji,小明说王刚总把他自己的照片发到朋友圈。,NA,xiaoming.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,48,zijide,ziji,小明说王刚总把自己的照片发到朋友圈。,NA,xiaoming.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,49,zijide,ta,小明说李华把他的演讲稿修改了一下。,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,50,zijide,taziji,小明说李华把他自己的演讲稿修改了一下。,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,51,zijide,ziji,小明说李华把自己的演讲稿修改了一下。,NA,xiaoming.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,52,zijide,ta,小明说张伟总把他的想法忘记。,NA,xiaoming.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,53,zijide,taziji,小明说张伟总把他自己的想法忘记。,NA,xiaoming.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,54,zijide,ziji,小明说张伟总把自己的想法忘记。,NA,xiaoming.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,55,zijide,ta,小明说王刚总把他的作业遗漏在桌子上。,NA,xiaoming.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,56,zijide,taziji,小明说王刚总把他自己的作业遗漏在桌子上。,NA,xiaoming.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,57,zijide,ziji,小明说王刚总把自己的作业遗漏在桌子上。,NA,xiaoming.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,58,zijide,ta,王刚说李华总把他的遭遇讲给别人听。,NA,wanggang.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,59,zijide,taziji,王刚说李华总把他自己的遭遇讲给别人听。,NA,wanggang.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,60,zijide,ziji,王刚说李华总把自己的遭遇讲给别人听。,NA,wanggang.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,61,zijide,ta,王刚说张伟把他的工作做完了。,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,62,zijide,taziji,王刚说张伟把他自己的工作做完了。,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,63,zijide,ziji,王刚说张伟把自己的工作做完了。,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,64,zijide,ta,王刚说小明把他的想法表达出来了。,NA,wanggang.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,65,zijide,taziji,王刚说小明把他自己的想法表达出来了。,NA,wanggang.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,66,zijide,ziji,王刚说小明把自己的想法表达出来了。,NA,wanggang.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,67,zijide,ta,王刚说张伟把他的孩子搂在怀里。,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,68,zijide,taziji,王刚说张伟把他自己的孩子搂在怀里。,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,69,zijide,ziji,王刚说张伟把自己的孩子搂在怀里。,NA,wanggang.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,70,zijide,ta,李华说王刚把他的证件弄丢了。,NA,lihua.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,71,zijide,taziji,李华说王刚把他自己的证件弄丢了。,NA,lihua.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,72,zijide,ziji,李华说王刚把自己的证件弄丢了。,NA,lihua.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,73,zijide,ta,李华说张伟把他的小狗找回来了。,NA,lihua.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,74,zijide,taziji,李华说张伟把他自己的小狗找回来了。,NA,lihua.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,75,zijide,ziji,李华说张伟把自己的小狗找回来了。,NA,lihua.png,zhangwei.png,other.png,NA,NA,NA,NA
+posterior,76,zijide,ta,李华说小明把他的玩具模型弄坏了。,NA,lihua.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,77,zijide,taziji,李华说小明把他自己的玩具模型弄坏了。,NA,lihua.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,78,zijide,ziji,李华说小明把自己的玩具模型弄坏了。,NA,lihua.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,79,zijide,ta,李华说小明把他的房间打扫干净了。,NA,lihua.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,80,zijide,taziji,李华说小明把他自己的房间打扫干净了。,NA,lihua.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,81,zijide,ziji,李华说小明把自己的房间打扫干净了。,NA,lihua.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,82,zijide,ta,张伟说小明把他的秘密告诉了别人。,NA,zhangwei.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,83,zijide,taziji,张伟说小明把他自己的秘密告诉了别人。,NA,zhangwei.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,84,zijide,ziji,张伟说小明把自己的秘密告诉了别人。,NA,zhangwei.png,xiaoming.png,other.png,NA,NA,NA,NA
+posterior,85,zijide,ta,张伟说王刚把他的衣服都捐掉了。,NA,zhangwei.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,86,zijide,taziji,张伟说王刚把他自己的衣服都捐掉了。,NA,zhangwei.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,87,zijide,ziji,张伟说王刚把自己的衣服都捐掉了。,NA,zhangwei.png,wanggang.png,other.png,NA,NA,NA,NA
+posterior,88,zijide,ta,张伟说李华不小心把他的文件给删除了。,NA,zhangwei.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,89,zijide,taziji,张伟说李华不小心把他自己的文件给删除了。,NA,zhangwei.png,lihua.png,other.png,NA,NA,NA,NA
+posterior,90,zijide,ziji,张伟说李华不小心把自己的文件给删除了。,NA,zhangwei.png,lihua.png,other.png,NA,NA,NA,NA

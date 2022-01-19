@@ -1,0 +1,6 @@
+﻿experiment,item,sentence,question,feedback,option1,answer,option3
+posterior-train,POT-1,王刚把她的碗筷洗了。,谁的碗筷被洗了？,是其他人的碗筷被洗了…,wanggang.png,other.png,zhangwei.png
+posterior-train,POT-2,小明把李华骂了一顿。,谁被骂了一顿？,是李华被骂了一顿…,xiaoming.png,lihua.png,other.png
+posterior-train,POT-3,张伟把王刚气哭了。,谁被气哭了？,是王刚被气哭了…,zhangwei.png,wanggang.png,other.png
+posterior-train,POT-4,李华把他自己的杯子打碎了。 ,谁的杯子被打碎了？,是李华的杯子被打碎了…,wanggang.png,lihua.png,other.png
+posterior-train,POT-5,王刚把她照顾得很好。,谁被照顾得很好？,是其他人被照顾得很好…,zhangwei.png,other.png,wanggang.png
