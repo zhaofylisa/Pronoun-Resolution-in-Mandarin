@@ -1,0 +1,517 @@
+,senID,experiment,type,condition,selection,Freq,Prob
+1,1,likelihood,co-argument,Clause Subject,ta,7,0.194444444
+2,1,likelihood,co-argument,Clause Subject,taziji,20,0.555555556
+3,1,likelihood,co-argument,Clause Subject,ziji,9,0.25
+4,1,likelihood,co-argument,Speaker,ta,14,0.5
+5,1,likelihood,co-argument,Speaker,taziji,3,0.107142857
+6,1,likelihood,co-argument,Speaker,ziji,11,0.392857143
+7,1,posterior,co-argument,ta,Speaker,45,0.882352941
+8,1,posterior,co-argument,ta,Clause Subject,5,0.098039216
+9,1,posterior,co-argument,ta,Others,1,0.019607843
+10,1,posterior,co-argument,taziji,Speaker,12,0.279069767
+11,1,posterior,co-argument,taziji,Clause Subject,30,0.697674419
+12,1,posterior,co-argument,taziji,Others,1,0.023255814
+13,1,posterior,co-argument,ziji,Speaker,28,0.682926829
+14,1,posterior,co-argument,ziji,Clause Subject,13,0.317073171
+15,1,prior,co-argument,prior,Speaker,21,0.75
+16,1,prior,co-argument,prior,Clause Subject,3,0.107142857
+17,1,prior,co-argument,prior,Others,4,0.142857143
+18,10,likelihood,co-argument,Clause Subject,ta,3,0.103448276
+19,10,likelihood,co-argument,Clause Subject,taziji,16,0.551724138
+20,10,likelihood,co-argument,Clause Subject,ziji,9,0.310344828
+21,10,likelihood,co-argument,Clause Subject,name,1,0.034482759
+22,10,likelihood,co-argument,Speaker,ta,24,0.666666667
+23,10,likelihood,co-argument,Speaker,taziji,7,0.194444444
+24,10,likelihood,co-argument,Speaker,ziji,5,0.138888889
+25,10,posterior,co-argument,ta,Speaker,44,0.862745098
+26,10,posterior,co-argument,ta,Clause Subject,6,0.117647059
+27,10,posterior,co-argument,ta,Others,1,0.019607843
+28,10,posterior,co-argument,taziji,Speaker,9,0.209302326
+29,10,posterior,co-argument,taziji,Clause Subject,33,0.76744186
+30,10,posterior,co-argument,taziji,Others,1,0.023255814
+31,10,posterior,co-argument,ziji,Speaker,15,0.365853659
+32,10,posterior,co-argument,ziji,Clause Subject,26,0.634146341
+33,10,prior,co-argument,prior,Speaker,8,0.285714286
+34,10,prior,co-argument,prior,Clause Subject,9,0.321428571
+35,10,prior,co-argument,prior,Others,11,0.392857143
+36,11,likelihood,co-argument,Clause Subject,ta,5,0.131578947
+37,11,likelihood,co-argument,Clause Subject,taziji,23,0.605263158
+38,11,likelihood,co-argument,Clause Subject,ziji,8,0.210526316
+39,11,likelihood,co-argument,Clause Subject,name,2,0.052631579
+40,11,likelihood,co-argument,Speaker,ta,13,0.464285714
+41,11,likelihood,co-argument,Speaker,taziji,2,0.071428571
+42,11,likelihood,co-argument,Speaker,ziji,13,0.464285714
+43,11,posterior,co-argument,ta,Speaker,33,0.804878049
+44,11,posterior,co-argument,ta,Clause Subject,8,0.195121951
+45,11,posterior,co-argument,taziji,Speaker,10,0.196078431
+46,11,posterior,co-argument,taziji,Clause Subject,41,0.803921569
+47,11,posterior,co-argument,ziji,Speaker,15,0.348837209
+48,11,posterior,co-argument,ziji,Clause Subject,28,0.651162791
+49,11,prior,co-argument,prior,Speaker,6,0.214285714
+50,11,prior,co-argument,prior,Clause Subject,12,0.428571429
+51,11,prior,co-argument,prior,Others,10,0.357142857
+52,12,likelihood,co-argument,Clause Subject,ta,5,0.172413793
+53,12,likelihood,co-argument,Clause Subject,taziji,16,0.551724138
+54,12,likelihood,co-argument,Clause Subject,ziji,7,0.24137931
+55,12,likelihood,co-argument,Clause Subject,name,1,0.034482759
+56,12,likelihood,co-argument,Speaker,ta,23,0.638888889
+57,12,likelihood,co-argument,Speaker,taziji,2,0.055555556
+58,12,likelihood,co-argument,Speaker,ziji,10,0.277777778
+59,12,likelihood,co-argument,Speaker,name,1,0.027777778
+60,12,posterior,co-argument,ta,Speaker,40,0.930232558
+61,12,posterior,co-argument,ta,Clause Subject,2,0.046511628
+62,12,posterior,co-argument,ta,Others,1,0.023255814
+63,12,posterior,co-argument,taziji,Speaker,8,0.195121951
+64,12,posterior,co-argument,taziji,Clause Subject,33,0.804878049
+65,12,posterior,co-argument,ziji,Speaker,35,0.68627451
+66,12,posterior,co-argument,ziji,Clause Subject,16,0.31372549
+67,12,prior,co-argument,prior,Speaker,7,0.25
+68,12,prior,co-argument,prior,Clause Subject,2,0.071428571
+69,12,prior,co-argument,prior,Others,19,0.678571429
+70,13,likelihood,co-argument,Clause Subject,ta,6,0.166666667
+71,13,likelihood,co-argument,Clause Subject,taziji,19,0.527777778
+72,13,likelihood,co-argument,Clause Subject,ziji,11,0.305555556
+73,13,likelihood,co-argument,Speaker,ta,17,0.586206897
+74,13,likelihood,co-argument,Speaker,taziji,2,0.068965517
+75,13,likelihood,co-argument,Speaker,ziji,8,0.275862069
+76,13,likelihood,co-argument,Speaker,name,2,0.068965517
+77,13,posterior,co-argument,ta,Speaker,46,0.901960784
+78,13,posterior,co-argument,ta,Clause Subject,4,0.078431373
+79,13,posterior,co-argument,ta,Others,1,0.019607843
+80,13,posterior,co-argument,taziji,Speaker,7,0.162790698
+81,13,posterior,co-argument,taziji,Clause Subject,35,0.813953488
+82,13,posterior,co-argument,taziji,Others,1,0.023255814
+83,13,posterior,co-argument,ziji,Speaker,22,0.536585366
+84,13,posterior,co-argument,ziji,Clause Subject,19,0.463414634
+85,13,prior,co-argument,prior,Speaker,17,0.607142857
+86,13,prior,co-argument,prior,Clause Subject,2,0.071428571
+87,13,prior,co-argument,prior,Others,9,0.321428571
+88,14,likelihood,co-argument,Clause Subject,ta,6,0.214285714
+89,14,likelihood,co-argument,Clause Subject,taziji,16,0.571428571
+90,14,likelihood,co-argument,Clause Subject,ziji,6,0.214285714
+91,14,likelihood,co-argument,Speaker,ta,25,0.657894737
+92,14,likelihood,co-argument,Speaker,taziji,3,0.078947368
+93,14,likelihood,co-argument,Speaker,ziji,8,0.210526316
+94,14,likelihood,co-argument,Speaker,name,2,0.052631579
+95,14,posterior,co-argument,ta,Speaker,40,0.975609756
+96,14,posterior,co-argument,ta,Others,1,0.024390244
+97,14,posterior,co-argument,taziji,Speaker,10,0.196078431
+98,14,posterior,co-argument,taziji,Clause Subject,41,0.803921569
+99,14,posterior,co-argument,ziji,Speaker,15,0.348837209
+100,14,posterior,co-argument,ziji,Clause Subject,27,0.627906977
+101,14,posterior,co-argument,ziji,Others,1,0.023255814
+102,14,prior,co-argument,prior,Speaker,7,0.25
+103,14,prior,co-argument,prior,Clause Subject,9,0.321428571
+104,14,prior,co-argument,prior,Others,12,0.428571429
+105,15,likelihood,co-argument,Clause Subject,ta,8,0.222222222
+106,15,likelihood,co-argument,Clause Subject,taziji,23,0.638888889
+107,15,likelihood,co-argument,Clause Subject,ziji,5,0.138888889
+108,15,likelihood,co-argument,Speaker,ta,17,0.586206897
+109,15,likelihood,co-argument,Speaker,taziji,2,0.068965517
+110,15,likelihood,co-argument,Speaker,ziji,9,0.310344828
+111,15,likelihood,co-argument,Speaker,name,1,0.034482759
+112,15,posterior,co-argument,ta,Speaker,38,0.88372093
+113,15,posterior,co-argument,ta,Clause Subject,5,0.11627907
+114,15,posterior,co-argument,taziji,Speaker,7,0.170731707
+115,15,posterior,co-argument,taziji,Clause Subject,34,0.829268293
+116,15,posterior,co-argument,ziji,Speaker,37,0.725490196
+117,15,posterior,co-argument,ziji,Clause Subject,13,0.254901961
+118,15,posterior,co-argument,ziji,Others,1,0.019607843
+119,15,prior,co-argument,prior,Speaker,16,0.571428571
+120,15,prior,co-argument,prior,Clause Subject,3,0.107142857
+121,15,prior,co-argument,prior,Others,9,0.321428571
+122,16,likelihood,possessor,Clause Subject,ta,3,0.107142857
+123,16,likelihood,possessor,Clause Subject,taziji,18,0.642857143
+124,16,likelihood,possessor,Clause Subject,ziji,7,0.25
+125,16,likelihood,possessor,Speaker,ta,30,0.833333333
+126,16,likelihood,possessor,Speaker,taziji,2,0.055555556
+127,16,likelihood,possessor,Speaker,ziji,4,0.111111111
+128,16,posterior,possessor,ta,Speaker,40,0.784313725
+129,16,posterior,possessor,ta,Clause Subject,11,0.215686275
+130,16,posterior,possessor,taziji,Speaker,5,0.11627907
+131,16,posterior,possessor,taziji,Clause Subject,38,0.88372093
+132,16,posterior,possessor,ziji,Speaker,15,0.365853659
+133,16,posterior,possessor,ziji,Clause Subject,26,0.634146341
+134,16,prior,possessor,prior,Speaker,8,0.285714286
+135,16,prior,possessor,prior,Clause Subject,14,0.5
+136,16,prior,possessor,prior,Others,6,0.214285714
+137,17,likelihood,possessor,Clause Subject,ta,8,0.222222222
+138,17,likelihood,possessor,Clause Subject,taziji,21,0.583333333
+139,17,likelihood,possessor,Clause Subject,ziji,7,0.194444444
+140,17,likelihood,possessor,Speaker,ta,16,0.551724138
+141,17,likelihood,possessor,Speaker,taziji,5,0.172413793
+142,17,likelihood,possessor,Speaker,ziji,6,0.206896552
+143,17,likelihood,possessor,Speaker,name,2,0.068965517
+144,17,posterior,possessor,ta,Speaker,27,0.658536585
+145,17,posterior,possessor,ta,Clause Subject,14,0.341463415
+146,17,posterior,possessor,taziji,Speaker,7,0.137254902
+147,17,posterior,possessor,taziji,Clause Subject,44,0.862745098
+148,17,posterior,possessor,ziji,Speaker,11,0.255813953
+149,17,posterior,possessor,ziji,Clause Subject,32,0.744186047
+150,17,prior,possessor,prior,Speaker,9,0.321428571
+151,17,prior,possessor,prior,Clause Subject,16,0.571428571
+152,17,prior,possessor,prior,Others,3,0.107142857
+153,18,likelihood,possessor,Clause Subject,ta,5,0.172413793
+154,18,likelihood,possessor,Clause Subject,taziji,17,0.586206897
+155,18,likelihood,possessor,Clause Subject,ziji,6,0.206896552
+156,18,likelihood,possessor,Clause Subject,name,1,0.034482759
+157,18,likelihood,possessor,Speaker,ta,26,0.722222222
+158,18,likelihood,possessor,Speaker,taziji,3,0.083333333
+159,18,likelihood,possessor,Speaker,ziji,6,0.166666667
+160,18,likelihood,possessor,Speaker,name,1,0.027777778
+161,18,posterior,possessor,ta,Speaker,22,0.511627907
+162,18,posterior,possessor,ta,Clause Subject,20,0.465116279
+163,18,posterior,possessor,ta,Others,1,0.023255814
+164,18,posterior,possessor,taziji,Speaker,2,0.048780488
+165,18,posterior,possessor,taziji,Clause Subject,39,0.951219512
+166,18,posterior,possessor,ziji,Speaker,12,0.235294118
+167,18,posterior,possessor,ziji,Clause Subject,38,0.745098039
+168,18,posterior,possessor,ziji,Others,1,0.019607843
+169,18,prior,possessor,prior,Speaker,5,0.178571429
+170,18,prior,possessor,prior,Clause Subject,18,0.642857143
+171,18,prior,possessor,prior,Others,5,0.178571429
+172,19,likelihood,possessor,Clause Subject,ta,6,0.166666667
+173,19,likelihood,possessor,Clause Subject,taziji,23,0.638888889
+174,19,likelihood,possessor,Clause Subject,ziji,7,0.194444444
+175,19,likelihood,possessor,Speaker,ta,15,0.517241379
+176,19,likelihood,possessor,Speaker,taziji,4,0.137931034
+177,19,likelihood,possessor,Speaker,ziji,8,0.275862069
+178,19,likelihood,possessor,Speaker,name,2,0.068965517
+179,19,posterior,possessor,ta,Speaker,31,0.607843137
+180,19,posterior,possessor,ta,Clause Subject,18,0.352941176
+181,19,posterior,possessor,ta,Others,2,0.039215686
+182,19,posterior,possessor,taziji,Speaker,3,0.069767442
+183,19,posterior,possessor,taziji,Clause Subject,40,0.930232558
+184,19,posterior,possessor,ziji,Speaker,16,0.390243902
+185,19,posterior,possessor,ziji,Clause Subject,25,0.609756098
+186,19,prior,possessor,prior,Speaker,10,0.357142857
+187,19,prior,possessor,prior,Clause Subject,11,0.392857143
+188,19,prior,possessor,prior,Others,7,0.25
+189,2,likelihood,co-argument,Clause Subject,ta,7,0.25
+190,2,likelihood,co-argument,Clause Subject,taziji,15,0.535714286
+191,2,likelihood,co-argument,Clause Subject,ziji,6,0.214285714
+192,2,likelihood,co-argument,Speaker,ta,22,0.611111111
+193,2,likelihood,co-argument,Speaker,taziji,4,0.111111111
+194,2,likelihood,co-argument,Speaker,ziji,10,0.277777778
+195,2,posterior,co-argument,ta,Speaker,41,1
+196,2,posterior,co-argument,taziji,Speaker,19,0.37254902
+197,2,posterior,co-argument,taziji,Clause Subject,32,0.62745098
+198,2,posterior,co-argument,ziji,Speaker,39,0.906976744
+199,2,posterior,co-argument,ziji,Clause Subject,4,0.093023256
+200,2,prior,co-argument,prior,Speaker,15,0.535714286
+201,2,prior,co-argument,prior,Clause Subject,1,0.035714286
+202,2,prior,co-argument,prior,Others,12,0.428571429
+203,20,likelihood,possessor,Clause Subject,ta,3,0.107142857
+204,20,likelihood,possessor,Clause Subject,taziji,17,0.607142857
+205,20,likelihood,possessor,Clause Subject,ziji,8,0.285714286
+206,20,likelihood,possessor,Speaker,ta,20,0.555555556
+207,20,likelihood,possessor,Speaker,taziji,3,0.083333333
+208,20,likelihood,possessor,Speaker,ziji,11,0.305555556
+209,20,likelihood,possessor,Speaker,name,2,0.055555556
+210,20,posterior,possessor,ta,Speaker,20,0.487804878
+211,20,posterior,possessor,ta,Clause Subject,21,0.512195122
+212,20,posterior,possessor,taziji,Speaker,8,0.156862745
+213,20,posterior,possessor,taziji,Clause Subject,41,0.803921569
+214,20,posterior,possessor,taziji,Others,2,0.039215686
+215,20,posterior,possessor,ziji,Speaker,10,0.23255814
+216,20,posterior,possessor,ziji,Clause Subject,33,0.76744186
+217,20,prior,possessor,prior,Speaker,5,0.178571429
+218,20,prior,possessor,prior,Clause Subject,17,0.607142857
+219,20,prior,possessor,prior,Others,6,0.214285714
+220,21,likelihood,possessor,Clause Subject,ta,7,0.184210526
+221,21,likelihood,possessor,Clause Subject,taziji,25,0.657894737
+222,21,likelihood,possessor,Clause Subject,ziji,4,0.105263158
+223,21,likelihood,possessor,Clause Subject,name,2,0.052631579
+224,21,likelihood,possessor,Speaker,ta,17,0.607142857
+225,21,likelihood,possessor,Speaker,taziji,3,0.107142857
+226,21,likelihood,possessor,Speaker,ziji,7,0.25
+227,21,likelihood,possessor,Speaker,name,1,0.035714286
+228,21,posterior,possessor,ta,Speaker,19,0.441860465
+229,21,posterior,possessor,ta,Clause Subject,23,0.534883721
+230,21,posterior,possessor,ta,Others,1,0.023255814
+231,21,posterior,possessor,taziji,Speaker,6,0.146341463
+232,21,posterior,possessor,taziji,Clause Subject,35,0.853658537
+233,21,posterior,possessor,ziji,Speaker,15,0.294117647
+234,21,posterior,possessor,ziji,Clause Subject,36,0.705882353
+235,21,prior,possessor,prior,Speaker,6,0.214285714
+236,21,prior,possessor,prior,Clause Subject,19,0.678571429
+237,21,prior,possessor,prior,Others,3,0.107142857
+238,22,likelihood,possessor,Clause Subject,taziji,20,0.689655172
+239,22,likelihood,possessor,Clause Subject,ziji,8,0.275862069
+240,22,likelihood,possessor,Clause Subject,name,1,0.034482759
+241,22,likelihood,possessor,Speaker,ta,22,0.611111111
+242,22,likelihood,possessor,Speaker,taziji,5,0.138888889
+243,22,likelihood,possessor,Speaker,ziji,9,0.25
+244,22,posterior,possessor,ta,Speaker,32,0.62745098
+245,22,posterior,possessor,ta,Clause Subject,18,0.352941176
+246,22,posterior,possessor,ta,Others,1,0.019607843
+247,22,posterior,possessor,taziji,Speaker,8,0.186046512
+248,22,posterior,possessor,taziji,Clause Subject,35,0.813953488
+249,22,posterior,possessor,ziji,Speaker,18,0.43902439
+250,22,posterior,possessor,ziji,Clause Subject,23,0.56097561
+251,22,prior,possessor,prior,Speaker,5,0.178571429
+252,22,prior,possessor,prior,Clause Subject,18,0.642857143
+253,22,prior,possessor,prior,Others,5,0.178571429
+254,23,likelihood,possessor,Clause Subject,ta,7,0.184210526
+255,23,likelihood,possessor,Clause Subject,taziji,21,0.552631579
+256,23,likelihood,possessor,Clause Subject,ziji,7,0.184210526
+257,23,likelihood,possessor,Clause Subject,name,3,0.078947368
+258,23,likelihood,possessor,Speaker,ta,13,0.464285714
+259,23,likelihood,possessor,Speaker,taziji,3,0.107142857
+260,23,likelihood,possessor,Speaker,ziji,9,0.321428571
+261,23,likelihood,possessor,Speaker,name,3,0.107142857
+262,23,posterior,possessor,ta,Speaker,18,0.43902439
+263,23,posterior,possessor,ta,Clause Subject,19,0.463414634
+264,23,posterior,possessor,ta,Others,4,0.097560976
+265,23,posterior,possessor,taziji,Speaker,5,0.098039216
+266,23,posterior,possessor,taziji,Clause Subject,45,0.882352941
+267,23,posterior,possessor,taziji,Others,1,0.019607843
+268,23,posterior,possessor,ziji,Speaker,10,0.23255814
+269,23,posterior,possessor,ziji,Clause Subject,32,0.744186047
+270,23,posterior,possessor,ziji,Others,1,0.023255814
+271,23,prior,possessor,prior,Speaker,3,0.107142857
+272,23,prior,possessor,prior,Clause Subject,18,0.642857143
+273,23,prior,possessor,prior,Others,7,0.25
+274,24,likelihood,possessor,Clause Subject,ta,3,0.107142857
+275,24,likelihood,possessor,Clause Subject,taziji,20,0.714285714
+276,24,likelihood,possessor,Clause Subject,ziji,5,0.178571429
+277,24,likelihood,possessor,Speaker,ta,21,0.583333333
+278,24,likelihood,possessor,Speaker,taziji,6,0.166666667
+279,24,likelihood,possessor,Speaker,ziji,8,0.222222222
+280,24,likelihood,possessor,Speaker,name,1,0.027777778
+281,24,posterior,possessor,ta,Speaker,30,0.697674419
+282,24,posterior,possessor,ta,Clause Subject,13,0.302325581
+283,24,posterior,possessor,taziji,Speaker,4,0.097560976
+284,24,posterior,possessor,taziji,Clause Subject,37,0.902439024
+285,24,posterior,possessor,ziji,Speaker,12,0.235294118
+286,24,posterior,possessor,ziji,Clause Subject,39,0.764705882
+287,24,prior,possessor,prior,Speaker,4,0.142857143
+288,24,prior,possessor,prior,Clause Subject,21,0.75
+289,24,prior,possessor,prior,Others,3,0.107142857
+290,25,likelihood,possessor,Clause Subject,ta,11,0.289473684
+291,25,likelihood,possessor,Clause Subject,taziji,20,0.526315789
+292,25,likelihood,possessor,Clause Subject,ziji,5,0.131578947
+293,25,likelihood,possessor,Clause Subject,name,2,0.052631579
+294,25,likelihood,possessor,Speaker,ta,15,0.535714286
+295,25,likelihood,possessor,Speaker,taziji,1,0.035714286
+296,25,likelihood,possessor,Speaker,ziji,9,0.321428571
+297,25,likelihood,possessor,Speaker,name,3,0.107142857
+298,25,posterior,possessor,ta,Speaker,33,0.647058824
+299,25,posterior,possessor,ta,Clause Subject,17,0.333333333
+300,25,posterior,possessor,ta,Others,1,0.019607843
+301,25,posterior,possessor,taziji,Speaker,5,0.11627907
+302,25,posterior,possessor,taziji,Clause Subject,38,0.88372093
+303,25,posterior,possessor,ziji,Speaker,14,0.341463415
+304,25,posterior,possessor,ziji,Clause Subject,27,0.658536585
+305,25,prior,possessor,prior,Speaker,17,0.607142857
+306,25,prior,possessor,prior,Clause Subject,5,0.178571429
+307,25,prior,possessor,prior,Others,6,0.214285714
+308,26,likelihood,possessor,Clause Subject,ta,4,0.137931034
+309,26,likelihood,possessor,Clause Subject,taziji,19,0.655172414
+310,26,likelihood,possessor,Clause Subject,ziji,5,0.172413793
+311,26,likelihood,possessor,Clause Subject,name,1,0.034482759
+312,26,likelihood,possessor,Speaker,ta,26,0.722222222
+313,26,likelihood,possessor,Speaker,taziji,3,0.083333333
+314,26,likelihood,possessor,Speaker,ziji,7,0.194444444
+315,26,posterior,possessor,ta,Speaker,39,0.951219512
+316,26,posterior,possessor,ta,Clause Subject,2,0.048780488
+317,26,posterior,possessor,taziji,Speaker,9,0.176470588
+318,26,posterior,possessor,taziji,Clause Subject,42,0.823529412
+319,26,posterior,possessor,ziji,Speaker,26,0.604651163
+320,26,posterior,possessor,ziji,Clause Subject,17,0.395348837
+321,26,prior,possessor,prior,Speaker,20,0.714285714
+322,26,prior,possessor,prior,Clause Subject,3,0.107142857
+323,26,prior,possessor,prior,Others,5,0.178571429
+324,27,likelihood,possessor,Clause Subject,ta,5,0.138888889
+325,27,likelihood,possessor,Clause Subject,taziji,21,0.583333333
+326,27,likelihood,possessor,Clause Subject,ziji,10,0.277777778
+327,27,likelihood,possessor,Speaker,ta,13,0.464285714
+328,27,likelihood,possessor,Speaker,taziji,5,0.178571429
+329,27,likelihood,possessor,Speaker,ziji,10,0.357142857
+330,27,posterior,possessor,ta,Speaker,21,0.488372093
+331,27,posterior,possessor,ta,Clause Subject,21,0.488372093
+332,27,posterior,possessor,ta,Others,1,0.023255814
+333,27,posterior,possessor,taziji,Speaker,1,0.024390244
+334,27,posterior,possessor,taziji,Clause Subject,40,0.975609756
+335,27,posterior,possessor,ziji,Speaker,7,0.137254902
+336,27,posterior,possessor,ziji,Clause Subject,44,0.862745098
+337,27,prior,possessor,prior,Speaker,4,0.142857143
+338,27,prior,possessor,prior,Clause Subject,22,0.785714286
+339,27,prior,possessor,prior,Others,2,0.071428571
+340,28,likelihood,possessor,Clause Subject,ta,4,0.137931034
+341,28,likelihood,possessor,Clause Subject,taziji,17,0.586206897
+342,28,likelihood,possessor,Clause Subject,ziji,7,0.24137931
+343,28,likelihood,possessor,Clause Subject,name,1,0.034482759
+344,28,likelihood,possessor,Speaker,ta,20,0.526315789
+345,28,likelihood,possessor,Speaker,taziji,4,0.105263158
+346,28,likelihood,possessor,Speaker,ziji,10,0.263157895
+347,28,likelihood,possessor,Speaker,name,4,0.105263158
+348,28,posterior,possessor,ta,Speaker,41,0.803921569
+349,28,posterior,possessor,ta,Clause Subject,8,0.156862745
+350,28,posterior,possessor,ta,Others,2,0.039215686
+351,28,posterior,possessor,taziji,Speaker,15,0.348837209
+352,28,posterior,possessor,taziji,Clause Subject,27,0.627906977
+353,28,posterior,possessor,taziji,Others,1,0.023255814
+354,28,posterior,possessor,ziji,Speaker,24,0.585365854
+355,28,posterior,possessor,ziji,Clause Subject,17,0.414634146
+356,28,prior,possessor,prior,Speaker,17,0.607142857
+357,28,prior,possessor,prior,Clause Subject,1,0.035714286
+358,28,prior,possessor,prior,Others,10,0.357142857
+359,29,likelihood,possessor,Clause Subject,ta,4,0.111111111
+360,29,likelihood,possessor,Clause Subject,taziji,21,0.583333333
+361,29,likelihood,possessor,Clause Subject,ziji,11,0.305555556
+362,29,likelihood,possessor,Speaker,ta,14,0.482758621
+363,29,likelihood,possessor,Speaker,taziji,6,0.206896552
+364,29,likelihood,possessor,Speaker,ziji,7,0.24137931
+365,29,likelihood,possessor,Speaker,name,2,0.068965517
+366,29,posterior,possessor,ta,Speaker,15,0.365853659
+367,29,posterior,possessor,ta,Clause Subject,26,0.634146341
+368,29,posterior,possessor,taziji,Speaker,7,0.137254902
+369,29,posterior,possessor,taziji,Clause Subject,43,0.843137255
+370,29,posterior,possessor,taziji,Others,1,0.019607843
+371,29,posterior,possessor,ziji,Speaker,9,0.209302326
+372,29,posterior,possessor,ziji,Clause Subject,34,0.790697674
+373,29,prior,possessor,prior,Speaker,5,0.178571429
+374,29,prior,possessor,prior,Clause Subject,21,0.75
+375,29,prior,possessor,prior,Others,2,0.071428571
+376,3,likelihood,co-argument,Clause Subject,ta,2,0.055555556
+377,3,likelihood,co-argument,Clause Subject,taziji,27,0.75
+378,3,likelihood,co-argument,Clause Subject,ziji,7,0.194444444
+379,3,likelihood,co-argument,Speaker,ta,13,0.464285714
+380,3,likelihood,co-argument,Speaker,taziji,2,0.071428571
+381,3,likelihood,co-argument,Speaker,ziji,12,0.428571429
+382,3,likelihood,co-argument,Speaker,name,1,0.035714286
+383,3,posterior,co-argument,ta,Speaker,33,0.76744186
+384,3,posterior,co-argument,ta,Clause Subject,6,0.139534884
+385,3,posterior,co-argument,ta,Others,4,0.093023256
+386,3,posterior,co-argument,taziji,Speaker,3,0.073170732
+387,3,posterior,co-argument,taziji,Clause Subject,37,0.902439024
+388,3,posterior,co-argument,taziji,Others,1,0.024390244
+389,3,posterior,co-argument,ziji,Speaker,21,0.411764706
+390,3,posterior,co-argument,ziji,Clause Subject,27,0.529411765
+391,3,posterior,co-argument,ziji,Others,3,0.058823529
+392,3,prior,co-argument,prior,Speaker,6,0.214285714
+393,3,prior,co-argument,prior,Clause Subject,8,0.285714286
+394,3,prior,co-argument,prior,Others,14,0.5
+395,30,likelihood,possessor,Clause Subject,ta,3,0.107142857
+396,30,likelihood,possessor,Clause Subject,taziji,21,0.75
+397,30,likelihood,possessor,Clause Subject,ziji,4,0.142857143
+398,30,likelihood,possessor,Speaker,ta,27,0.710526316
+399,30,likelihood,possessor,Speaker,taziji,4,0.105263158
+400,30,likelihood,possessor,Speaker,ziji,5,0.131578947
+401,30,likelihood,possessor,Speaker,name,2,0.052631579
+402,30,posterior,possessor,ta,Speaker,37,0.860465116
+403,30,posterior,possessor,ta,Clause Subject,5,0.11627907
+404,30,posterior,possessor,ta,Others,1,0.023255814
+405,30,posterior,possessor,taziji,Speaker,8,0.195121951
+406,30,posterior,possessor,taziji,Clause Subject,33,0.804878049
+407,30,posterior,possessor,ziji,Speaker,26,0.509803922
+408,30,posterior,possessor,ziji,Clause Subject,24,0.470588235
+409,30,posterior,possessor,ziji,Others,1,0.019607843
+410,30,prior,possessor,prior,Speaker,16,0.571428571
+411,30,prior,possessor,prior,Clause Subject,5,0.178571429
+412,30,prior,possessor,prior,Others,7,0.25
+413,4,likelihood,co-argument,Clause Subject,ta,6,0.206896552
+414,4,likelihood,co-argument,Clause Subject,taziji,15,0.517241379
+415,4,likelihood,co-argument,Clause Subject,ziji,7,0.24137931
+416,4,likelihood,co-argument,Clause Subject,name,1,0.034482759
+417,4,likelihood,co-argument,Speaker,ta,23,0.638888889
+418,4,likelihood,co-argument,Speaker,taziji,3,0.083333333
+419,4,likelihood,co-argument,Speaker,ziji,7,0.194444444
+420,4,likelihood,co-argument,Speaker,name,3,0.083333333
+421,4,posterior,co-argument,ta,Speaker,44,0.862745098
+422,4,posterior,co-argument,ta,Clause Subject,7,0.137254902
+423,4,posterior,co-argument,taziji,Speaker,14,0.325581395
+424,4,posterior,co-argument,taziji,Clause Subject,28,0.651162791
+425,4,posterior,co-argument,taziji,Others,1,0.023255814
+426,4,posterior,co-argument,ziji,Speaker,27,0.658536585
+427,4,posterior,co-argument,ziji,Clause Subject,14,0.341463415
+428,4,prior,co-argument,prior,Speaker,16,0.571428571
+429,4,prior,co-argument,prior,Clause Subject,4,0.142857143
+430,4,prior,co-argument,prior,Others,8,0.285714286
+431,5,likelihood,co-argument,Clause Subject,ta,6,0.166666667
+432,5,likelihood,co-argument,Clause Subject,taziji,19,0.527777778
+433,5,likelihood,co-argument,Clause Subject,ziji,11,0.305555556
+434,5,likelihood,co-argument,Speaker,ta,15,0.517241379
+435,5,likelihood,co-argument,Speaker,taziji,2,0.068965517
+436,5,likelihood,co-argument,Speaker,ziji,10,0.344827586
+437,5,likelihood,co-argument,Speaker,name,2,0.068965517
+438,5,posterior,co-argument,ta,Speaker,38,0.926829268
+439,5,posterior,co-argument,ta,Clause Subject,2,0.048780488
+440,5,posterior,co-argument,ta,Others,1,0.024390244
+441,5,posterior,co-argument,taziji,Speaker,8,0.156862745
+442,5,posterior,co-argument,taziji,Clause Subject,43,0.843137255
+443,5,posterior,co-argument,ziji,Speaker,17,0.395348837
+444,5,posterior,co-argument,ziji,Clause Subject,26,0.604651163
+445,5,prior,co-argument,prior,Speaker,8,0.285714286
+446,5,prior,co-argument,prior,Clause Subject,4,0.142857143
+447,5,prior,co-argument,prior,Others,16,0.571428571
+448,6,likelihood,co-argument,Clause Subject,ta,1,0.034482759
+449,6,likelihood,co-argument,Clause Subject,taziji,19,0.655172414
+450,6,likelihood,co-argument,Clause Subject,ziji,8,0.275862069
+451,6,likelihood,co-argument,Clause Subject,name,1,0.034482759
+452,6,likelihood,co-argument,Speaker,ta,23,0.638888889
+453,6,likelihood,co-argument,Speaker,taziji,7,0.194444444
+454,6,likelihood,co-argument,Speaker,ziji,4,0.111111111
+455,6,likelihood,co-argument,Speaker,name,2,0.055555556
+456,6,posterior,co-argument,ta,Speaker,33,0.76744186
+457,6,posterior,co-argument,ta,Clause Subject,8,0.186046512
+458,6,posterior,co-argument,ta,Others,2,0.046511628
+459,6,posterior,co-argument,taziji,Speaker,3,0.073170732
+460,6,posterior,co-argument,taziji,Clause Subject,38,0.926829268
+461,6,posterior,co-argument,ziji,Speaker,10,0.196078431
+462,6,posterior,co-argument,ziji,Clause Subject,41,0.803921569
+463,6,prior,co-argument,prior,Speaker,8,0.285714286
+464,6,prior,co-argument,prior,Clause Subject,14,0.5
+465,6,prior,co-argument,prior,Others,6,0.214285714
+466,7,likelihood,co-argument,Clause Subject,ta,5,0.138888889
+467,7,likelihood,co-argument,Clause Subject,taziji,18,0.5
+468,7,likelihood,co-argument,Clause Subject,ziji,13,0.361111111
+469,7,likelihood,co-argument,Speaker,ta,16,0.551724138
+470,7,likelihood,co-argument,Speaker,taziji,2,0.068965517
+471,7,likelihood,co-argument,Speaker,ziji,10,0.344827586
+472,7,likelihood,co-argument,Speaker,name,1,0.034482759
+473,7,posterior,co-argument,ta,Speaker,47,0.921568627
+474,7,posterior,co-argument,ta,Clause Subject,2,0.039215686
+475,7,posterior,co-argument,ta,Others,2,0.039215686
+476,7,posterior,co-argument,taziji,Speaker,7,0.162790698
+477,7,posterior,co-argument,taziji,Clause Subject,36,0.837209302
+478,7,posterior,co-argument,ziji,Speaker,15,0.365853659
+479,7,posterior,co-argument,ziji,Clause Subject,26,0.634146341
+480,7,prior,co-argument,prior,Speaker,9,0.321428571
+481,7,prior,co-argument,prior,Clause Subject,4,0.142857143
+482,7,prior,co-argument,prior,Others,15,0.535714286
+483,8,likelihood,co-argument,Clause Subject,ta,3,0.107142857
+484,8,likelihood,co-argument,Clause Subject,taziji,19,0.678571429
+485,8,likelihood,co-argument,Clause Subject,ziji,6,0.214285714
+486,8,likelihood,co-argument,Speaker,ta,25,0.694444444
+487,8,likelihood,co-argument,Speaker,taziji,2,0.055555556
+488,8,likelihood,co-argument,Speaker,ziji,8,0.222222222
+489,8,likelihood,co-argument,Speaker,name,1,0.027777778
+490,8,posterior,co-argument,ta,Speaker,39,0.951219512
+491,8,posterior,co-argument,ta,Clause Subject,1,0.024390244
+492,8,posterior,co-argument,ta,Others,1,0.024390244
+493,8,posterior,co-argument,taziji,Speaker,11,0.215686275
+494,8,posterior,co-argument,taziji,Clause Subject,40,0.784313725
+495,8,posterior,co-argument,ziji,Speaker,19,0.441860465
+496,8,posterior,co-argument,ziji,Clause Subject,23,0.534883721
+497,8,posterior,co-argument,ziji,Others,1,0.023255814
+498,8,prior,co-argument,prior,Speaker,7,0.25
+499,8,prior,co-argument,prior,Clause Subject,3,0.107142857
+500,8,prior,co-argument,prior,Others,18,0.642857143
+501,9,likelihood,co-argument,Clause Subject,ta,5,0.138888889
+502,9,likelihood,co-argument,Clause Subject,taziji,21,0.583333333
+503,9,likelihood,co-argument,Clause Subject,ziji,10,0.277777778
+504,9,likelihood,co-argument,Speaker,ta,12,0.428571429
+505,9,likelihood,co-argument,Speaker,taziji,6,0.214285714
+506,9,likelihood,co-argument,Speaker,ziji,9,0.321428571
+507,9,likelihood,co-argument,Speaker,name,1,0.035714286
+508,9,posterior,co-argument,ta,Speaker,38,0.88372093
+509,9,posterior,co-argument,ta,Clause Subject,5,0.11627907
+510,9,posterior,co-argument,taziji,Speaker,3,0.073170732
+511,9,posterior,co-argument,taziji,Clause Subject,38,0.926829268
+512,9,posterior,co-argument,ziji,Speaker,6,0.117647059
+513,9,posterior,co-argument,ziji,Clause Subject,45,0.882352941
+514,9,prior,co-argument,prior,Speaker,10,0.357142857
+515,9,prior,co-argument,prior,Clause Subject,7,0.25
+516,9,prior,co-argument,prior,Others,11,0.392857143
